@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+.spacer {
+  content: "";
+}
+
+.spacer-50 {
+  height: 50px;
+}
+
+.spacer-100 {
+  height: 100px;
+}
+
+.spacer-200 {
+  height: 200px;
+}
+
+.spacer-500 {
+  height: 500px;
+}
+
+.bg-purp {
+  background-color: purple;
+  color: white;
+}
+
+.bg-purp img {
+  -webkit-filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(314deg) brightness(105%) contrast(101%);
+          filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(314deg) brightness(105%) contrast(101%);
+}
+/*# sourceMappingURL=styles.css.map */
